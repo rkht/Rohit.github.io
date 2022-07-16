@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Rohitweb.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/Rohitweb.github.io/static/js/main.21a26dd8.js",
+    "static/js/787.e947a2ff.chunk.js": "/Rohitweb.github.io/static/js/787.e947a2ff.chunk.js",
+    "static/media/pepsi.jpeg": "/Rohitweb.github.io/static/media/pepsi.6efe5ca933f40734c898.jpeg",
+    "static/media/burger.jpeg": "/Rohitweb.github.io/static/media/burger.a264aebc643407f64b08.a264aebc643407f64b08.jpeg",
+    "static/media/fries.jpeg": "/Rohitweb.github.io/static/media/fries.f7959aff9a151e6e64aa.jpeg",
+    "static/media/coke.jpeg": "/Rohitweb.github.io/static/media/coke.100662047528b053f85e.jpeg",
+    "index.html": "/Rohitweb.github.io/index.html",
+    "main.073c9b0a.css.map": "/Rohitweb.github.io/static/css/main.073c9b0a.css.map",
+    "main.21a26dd8.js.map": "/Rohitweb.github.io/static/js/main.21a26dd8.js.map",
+    "787.e947a2ff.chunk.js.map": "/Rohitweb.github.io/static/js/787.e947a2ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.21a26dd8.js"
+  ]
+}
